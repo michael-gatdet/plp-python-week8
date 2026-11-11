@@ -1,0 +1,59 @@
+
+PERSONAL MINI-TOOLKIT - PROJECT PLAN
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+This tool performs addition, subtraction, multiplication, and division.
+
+Tool 2: To-Do List Manager
+This tool allows users to add, view, and remove tasks using a Python list.
+
+Tool 3: Number Guessing Game
+This tool allows users to guess a randomly generated number until they find the correct answer.
+
+2. MENU DESIGN
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+
+Enter your choice:
+
+3. PYTHON CONCEPTS
+
+Simple Calculator:
+- Variables
+- User input
+- Type conversion
+- Conditional statements
+- F-strings
+
+To-Do List Manager:
+- Lists
+- Append and remove methods
+- Loops
+- Conditional statements
+
+Number Guessing Game:
+- Random numbers
+- While loops
+- If, elif and else
+- User input
+- F-strings
+
+Main Menu:
+- While loop
+- If, elif and else
+- Input and output
+- Invalid choice handling
+
+4. PROGRAM EXIT
+
+The program will continue displaying the menu until the user chooses Quit.
+A friendly goodbye message will appear before the program closes.
